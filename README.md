@@ -4,7 +4,7 @@
 
 A small Rust application that changes your desktop wallpaper to a random image from [Unsplash](https://unsplash.com/), using their free API to get a random photo found when searching for "desktop background". Put a shortcut to the executable in your Autostart folder and enjoy a different desktop background everytime you boot up your PC!  
 Inspiration for this project came from [40 Side Project Ideas for Software Engineers](https://www.codementor.io/@npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef) (idea #30).  
-This application should work any platform supported by [wallpaper.rs](https://github.com/reujab/wallpaper.rs/).
+This application should work on any platform supported by [wallpaper.rs](https://github.com/reujab/wallpaper.rs/).
 
 ## The Unsplash API
 
